@@ -36,6 +36,7 @@
 .tiger p{
           font-size: calc(16px + 1vw);
           line-height: 35px;
+          color: white;
 }
 
 .tiger p::first-letter{
